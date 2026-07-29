@@ -16,9 +16,9 @@ export const NAVITEMS = [
   headline2: "Tomorrow,",
   headline3: "Sustainably",
   headline4: "Today!",
-  subheading1: "Join us in the sgreen energy revolution",
-  subheading2: "and be part of a sustainable future",
-  subheading3: "for generations to come.",
+  subheading1: "unamonos en la revolucion verde",
+  subheading2: "y se parte de un futuro sostenible hoy",
+  subheading3: "para las generaciones que vienen",
   buttonText: "Get Powered Today!",
   backgroundImage: imgHero,
 };
