@@ -12,10 +12,10 @@ export const NAVITEMS = [
 ];
 
  export const HERO = {
-  headline1: "Powering",
-  headline2: "Tomorrow,",
-  headline3: "Sustainably",
-  headline4: "Today!",
+  headline1: "EMPODERAR",
+  headline2: "UN MANANA",
+  headline3: "SUSTENTABLE",
+  headline4: "HOY!",
   subheading1: "Join us in the sgreen energy revolution",
   subheading2: "and be part of a sustainable future",
   subheading3: "for generations to come.",
